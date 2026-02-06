@@ -1,4 +1,4 @@
-#📞 AstroSage Call Center Analysis – Excel Project
+📞 AstroSage Call Center Analysis – Excel Project
 
 
 📊 Project Overview
